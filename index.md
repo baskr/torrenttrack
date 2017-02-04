@@ -567,5 +567,5 @@ http://85.17.19.180/announce
 
 ```
 
-[Last Months Trackers>](https://baskr.github.io/torrenttrack/jan2017.html).
+[Last Months Trackers>](https://baskr.github.io/torrenttrack/jan2017.md).
 
