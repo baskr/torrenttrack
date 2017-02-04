@@ -6,7 +6,7 @@ Get Monthly BitTorrent Trackers.
 ### This Month
 Feb. 2017
 
-
+###### Copy and Paste these:
 ```markdown
 
 http://atrack.pow7.com/announce
@@ -567,5 +567,5 @@ http://85.17.19.180/announce
 
 ```
 
-[Last Months Trackers >](https://baskr.github.io/torrenttrack/jan2017.md).
+[Last Months Trackers >](https://baskr.github.io/torrenttrack/jan2017.html).
 
